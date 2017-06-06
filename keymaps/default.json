@@ -97,6 +97,7 @@
 		{ "keys": "Ctrl+Shift+X,S", "command": "debug_dump_scopes" },
 		{ "keys": "Ctrl+Shift+X,R", "command": "debug_rebuild_scopes" },
 		{ "keys": "Ctrl+Shift+X,U", "command": "debug_dump_undo_stack" },
+        { "keys": "Ctrl+Shift+X,C", "command": "debug_dump_character_codes" },
 
 		// find commands
 		{ "keys": "Ctrl+E", "command": "find_use_sel" },

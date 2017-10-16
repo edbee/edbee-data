@@ -89,7 +89,10 @@
         { "keys": "Ctrl+Shift+U", "command": "soft_redo" },
 
 		// clipboard operations
-		{ "keys": "copy", "command": "copy" },
+        { "keys": "Ctrl+Insert", "command": "copy" },
+        { "keys": "Shift+Delete", "command": "cut" },
+        { "keys": "Shift+Insert", "command": "paste" },
+        { "keys": "copy", "command": "copy" },
 		{ "keys": "cut", "command": "cut" },
 		{ "keys": "paste", "command": "paste" },
 

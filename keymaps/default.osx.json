@@ -12,7 +12,7 @@
 	// you can use Qt QKeySequence texts here, extended with the default key-names 
 	"bindings": [
 	
-		{ "keys": "Meta+shift+Up", "command": "add_caret_prev_line" },
+        { "keys": "Meta+shift+Up", "command": "add_caret_prev_line" },
         { "keys": "Meta+shift+Down", "command": "add_caret_next_line" },
         { "keys": "Ctrl+Meta+G", "command": "select_all_under" }
 

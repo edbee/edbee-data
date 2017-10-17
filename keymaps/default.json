@@ -61,7 +61,6 @@
 
         // deletion right
         { "keys": "Delete", "command": "del_right" },
-        { "keys": "Shift+Delete", "command": "del_right" },
         { "keys": "Alt+Delete", "command": "del_word_right" },
         { "keys": "Ctrl+Delete", "command": "del_line_right" },
 
